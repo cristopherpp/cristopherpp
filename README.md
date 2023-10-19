@@ -1,5 +1,5 @@
-### Hi there 👋
-asdasd
+### Hola, me llamo Cristopher 👋
+Soy programador FrontEnd autodidacta, me gusta programar por el hecho de poder crear cosas, suelo leer, jugar videojuegos y escuchar musica en mi tiempo libre.
 <!--
 **cristophdev/cristophdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
