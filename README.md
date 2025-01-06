@@ -1,5 +1,4 @@
-### Hola, me llamo Cristopher 👋
-Soy programador FrontEnd, me gusta programar por el hecho de poder crear cosas, suelo leer, jugar videojuegos y escuchar musica en mi tiempo libre.
+### Hi!, I'm a self-taught Web Developer, and this is my github and stuff
 <!--
 **cristophdev/cristophdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
