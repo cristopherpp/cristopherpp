@@ -1,7 +1,7 @@
 ### Hi!, I'm Cristopher
 A self-taught Web Developer, and this is my github and stuff
 ## My Stack:
--React ⚛️. 
+-React ⚛️<br>
 -NextJs. 
 -TypeScript. 
 -JavsScript (but I like it less than TypeScript)  
