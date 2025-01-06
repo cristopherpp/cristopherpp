@@ -2,10 +2,10 @@
 A self-taught Web Developer, and this is my github and stuff
 ## My Stack:
 -React ⚛️<br>
--NextJs. 
--TypeScript. 
--JavsScript (but I like it less than TypeScript)  
--And also I'm interested in C++  
+-NextJs<br>
+-TypeScript<br>
+-JavsScript (but I like it less than TypeScript)<br>
+-And also I'm interested in C++<br>
 <!--
 **cristophdev/cristophdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
