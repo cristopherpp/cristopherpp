@@ -5,7 +5,7 @@ A self-taught Web Developer, and this is my github and stuff
 -NextJs<br>
 -TypeScript<br>
 -JavaScript (but I like it less than TypeScript)<br>
--And also I'm interested in C++<br>
+-And I'm also interested in C++<br>
 <!--
 **cristophdev/cristophdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
