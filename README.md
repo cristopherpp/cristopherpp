@@ -1,4 +1,5 @@
-### Hi!, I'm a self-taught Web Developer, and this is my github and stuff
+### Hi!, I'm Cristopher
+A self-taught Web Developer (soon dofteare developer), and this is my github and stuff
 <!--
 **cristophdev/cristophdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
