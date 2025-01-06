@@ -1,11 +1,11 @@
 ### Hi!, I'm Cristopher
 A self-taught Web Developer, and this is my github and stuff
 ## My Stack:
-React ⚛️
-NextJs
-TypeScript
-JavsScript (but I like it less than TypeScript)
-and also I'm interested in C++
+-React ⚛️
+-NextJs
+-TypeScript
+-JavsScript (but I like it less than TypeScript)
+-And also I'm interested in C++
 <!--
 **cristophdev/cristophdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
