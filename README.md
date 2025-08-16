@@ -7,7 +7,7 @@ A self-taught Web Developer, and this is my github and stuff
 -JavaScript (but I like it less than TypeScript)<br>
 -And I'm also interested in C++<br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cristophdev&layout=donut-vertical&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cristopherpp&layout=donut-vertical&theme=dark)
 <!--
 **cristophdev/cristophdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
