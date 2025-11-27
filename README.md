@@ -1,4 +1,4 @@
-### Hi!, I'm Cristopher
+### Hi!, I'm Cristopher aka bin
 I like to do things and this is where I store them
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cristopherpp&layout=pie&theme=dark)
