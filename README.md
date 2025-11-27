@@ -1,7 +1,9 @@
 ### Hi!, I'm Cristopher aka bin
 I like to do things and this is where I store them
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cristopherpp&layout=pie&theme=dark)
+I like C++ but I wrote it less than js/ts
+
+collabs: cristoperesc@gmail.com
 <!--
 **cristophdev/cristophdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
