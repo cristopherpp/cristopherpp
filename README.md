@@ -1,4 +1,4 @@
-### Hi!, I'm Cristopher aka bin
+### Hi!, I'm Cristopher
 I like to do things and this is where I store them
 
 I like C++ but I wrote it less than js/ts
