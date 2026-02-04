@@ -1,4 +1,4 @@
-### Hi!, I'm Cristopher
+### Hi!, I'm Cristopher Pérez
 I like to do things and this is where I store them
 
 I like C++ but I wrote it less than js/ts
