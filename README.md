@@ -3,6 +3,8 @@ I like to do things and this is where I store them
 
 I like C++ but I wrote it less than js/ts
 
+I'm learning quantum physics, specially quantum computing because I think it's interesting
+
 collabs: cristoperesc@gmail.com
 <!--
 **cristophdev/cristophdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
